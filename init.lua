@@ -5,25 +5,25 @@
 	=============
 	This mod adds signs for the advanced trains mod by orwell
 	
-	version 0.3 by maxx
+	version 0.4 by maxx
 
 	Copyright (C) 2018 Maximilian Hipp and gpcf
 
 	See LICENSE.txt for more information
 
 	History: 
-	2018-03-04  version 0.1 release 
-	2018-03-05  version 0.2 better node registrations and craft receipes | changed textures
+	2018-03-04  version 0.1  release 
+	2018-03-05  version 0.2  better node registrations and craft receipes | changed textures
 	2018-03-06  version 0.21 alias added
-	2018-03-07  version 0.3 alias removed in trainblocks and added new signs. => trainblocks_bc for backwards compatibility
-	2018-09-24	code cleaned up; added new signs/blocks; textures uptdated
+	2018-03-07  version 0.3  alias removed in trainblocks and added new signs. => trainblocks_bc for backwards compatibility
+	2018-09-24  version 0.4  code cleaned up; added new signs/blocks; textures uptdated
 	
 ]]--
 
 --import file /craft.lua
 
 
-dofile(minetest.get_modpath("trainblocks_bc") .. "/alias.lua")
+dofile(minetest.get_modpath("trainblocks") .. "/alias.lua")
 
 
 
